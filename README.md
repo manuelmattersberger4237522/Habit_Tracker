@@ -46,7 +46,7 @@ When the right menu option is highlighted, use the enter key for selection.
 To run the tests, in 'Anaconda Prompt (anaconda3)' navigate to the folder 'Habit_Tracker' and use the following 'Anaconda Prompt (anaconda3)' command:
 
 ```powershell
-pytest Tests
+pytest tests
 ```
 
 Note: Assumes that environment 'habit_tracker_env' is activated (activation described in section 'Preparation').
